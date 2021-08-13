@@ -7,7 +7,7 @@ I am currently programming in Python and R and if you need some help with your o
 
 - 🔭 I’m currently working on Groundwater Modelling, Groundwater Recharge models, geological modelling
 - 🌱 I’m currently learning Flopy, PEST, advanced python features, geophysics integration in pygimli, geological modelling with Gempy, 
-- 👯 I’m looking to collaborate on groundwater models, advanced analysis with groundwater.
-- 🤔 I’m looking for help with my pigimli VES model integration
+- 👯 I’m looking to collaborate on open source projects in groundwater modelling, groundwater hydrology, and others.
+- 🤔 I’m looking for help with my geological and hydrogeological integration framework (gelogical data + geophysics integration -> modflow models)
 - 📫 How to reach me: Send me a message here!
 
